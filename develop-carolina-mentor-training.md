@@ -161,6 +161,32 @@ Roles of mentors and coach.  A coaching mentor
 
 ![image](https://user-images.githubusercontent.com/2467354/142066303-0ab46b95-2e32-42fe-a6bb-a30080e3c937.png)
 
-Chandler Roth 4:11 PM - https://miro.com/app/board/o9J_ljU4ZKk=/?invite_link_id=54509848316
+Chandler Roth 4:11 PM shared miro board:  https://miro.com/app/board/o9J_ljU4ZKk=/?invite_link_id=54509848316
+
+## Craftsmanship
+
+![image](https://user-images.githubusercontent.com/2467354/142066816-852650a8-2c0d-4827-b467-508662c86293.png)
+
+Well have access to GH repo for EngineerKit.  Resources.  Mini project. That will go live at the end of the year.
+
+![image](https://user-images.githubusercontent.com/2467354/142067366-3e973e96-7867-4ab8-8ee4-733ae45e4f9f.png)
+
+- Inspire the fellow to do exceptional work.  Autonomous.  Understanding of excellence.
+- Connect a fellow to the past.  We have been doing this for 1000s of years
+
+![image](https://user-images.githubusercontent.com/2467354/142067508-981c0a63-802e-4916-bb31-ac0d05f6ef22.png)
+
+- Skills, techniques, mindset.  How they might apply to software engineering.
+
+![image](https://user-images.githubusercontent.com/2467354/142067586-e573c67d-52b3-449e-8923-c9efa97e8d53.png)
+
+Both euro and japanese perspectives, similarities, and diffences between these 2 cultures.
+
+![image](https://user-images.githubusercontent.com/2467354/142067909-2be69236-323d-4802-aafe-92258b252299.png)
+
+
+
+
+
 
 
