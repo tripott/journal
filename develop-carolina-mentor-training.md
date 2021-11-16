@@ -44,6 +44,26 @@ next 8 sessions
 ![image](https://user-images.githubusercontent.com/2467354/142060925-6a736c12-199f-4ee1-8b90-f814a117c1c6.png)
 ![image](https://user-images.githubusercontent.com/2467354/142060974-478c2d37-0511-4015-bccc-dd91d9ce36b7.png)
 
+- Explorer.  maybe interested, free code camp is good resources for them.  A fellowship is NOT for them.
+- Student - Maybe handled a couple of isolated problems.  University.  Boot Camp. Self taught.  Learning theory.  This is not what a fellowship is.
+- Fellow - bridging between.  Comforatble with team culture.  Fit in with team.  Work along side the team.  help them become a practicioner.
+
+![image](https://user-images.githubusercontent.com/2467354/142061303-6e2b846f-1cd7-4663-b614-0b34e39ae6d2.png)
+
+## EngineerKit
+
+- Work on full SDLC.  Exposure.  Not a specialist.  Want them to become a generalist.  Skills that are useful for most softwrae teams.
+- We are bringing in what is important for our (hyper) team.
+
+![image](https://user-images.githubusercontent.com/2467354/142061481-cded5a20-9d19-42f4-b462-547ab39b30f5.png)
+
+- Every module has resources.  Learn about a concept quickly and a great jumping off point.
+- Mini projects throughout 6 months.  Ex:  Download and use wireshark and inspect packets.
+
+![image](https://user-images.githubusercontent.com/2467354/142061647-19a5120f-633a-4ae1-bec6-9f8565823000.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142061683-d5b5d751-daea-41f2-a5f9-7e6863a64bec.png)
+
 
 
 
