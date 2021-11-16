@@ -204,15 +204,77 @@ Both euro and japanese perspectives, similarities, and diffences between these 2
 
 ![image](https://user-images.githubusercontent.com/2467354/142069516-5322cdeb-d435-40c6-9578-d664798fb5bd.png)
 
+- When you are talking to the Fellow talking about fulfillment.  Depends on how they view fulfillment.  The fulfillment comes from learning everyday and I feel as though I never left school which is great to have a carrer where you are constantly flexing the muscle that is your brain. 
+- What are some things that I have learned that I can intentially pass along to the fellow. 
+
+![image](https://user-images.githubusercontent.com/2467354/142069821-0cebb0d1-8b69-49d3-a8ec-68d3b3430490.png)
+
+
+![image](https://user-images.githubusercontent.com/2467354/142069891-58135f0d-6a96-4fb8-aa40-b81e36249f33.png)
+
+- After Agile manifesto came the software craftsmanship movement.  
+
+![image](https://user-images.githubusercontent.com/2467354/142069950-bd3d8cb9-a096-433e-a491-e4225034aaa1.png)
+
+- How do we as a community do better?
+- How do we get engaged in the community?
+- Getting the fellow some tips to get involved. Discord, Open source project, meet up, 
+
+![image](https://user-images.githubusercontent.com/2467354/142070094-2adc2164-6b46-4aab-acc6-1ced91528056.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142070378-80e8bf4e-5f04-47ba-b37a-5c28b28a4da7.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142070711-0dcf52af-85b9-475f-84c8-f9d0622744f1.png)
+
+
+![image](https://user-images.githubusercontent.com/2467354/142070740-3d327bc4-7551-4505-ad2a-df4b4eba6e38.png)
+
+Wghat does the learning proecess look like for them?
+What can they expect?
+Learning techiques?
+
+![image](https://user-images.githubusercontent.com/2467354/142070827-1a33b335-4a86-4617-ad89-650473c4fe8e.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142070858-32d6de73-1154-48cb-a2f3-ba3476e8294b.png)
+
+Skill development in 3 steps
+
+- `shu` - protect or defend.  A fellows growth.  Give structure.  Follow the rules.  Use Git commands.  Merge PRs.   Good first tasks.  
+- `ha` - as abilities are built and we gain confidence around their abilities.  We start to have trust in their abilities. As they get momentum they can take on more complicated tickets. 
+- `r`i - full autonomy.  After the fellowship. 
 
 
 
+## Multiple Intelligences
 
+![image](https://user-images.githubusercontent.com/2467354/142071173-bb58edf7-8ba7-4aa3-b3e1-1151f11c2d73.png)
 
+- Multiple learning styles.
+- A video in the kit about the diff learning styles
 
+![image](https://user-images.githubusercontent.com/2467354/142071370-a3b932bc-34c6-4c55-9298-2155a9139885.png)
 
+![image](https://user-images.githubusercontent.com/2467354/142071764-422895b3-c100-4d71-bd55-636ae538d814.png)
 
+![image](https://user-images.githubusercontent.com/2467354/142071799-829545fe-f51b-46a2-8c06-9ddf7795ebfb.png)
 
+![image](https://user-images.githubusercontent.com/2467354/142071830-54b346ce-2c20-48a8-9c60-e3eb01f4ef6f.png)
 
+- flow happens when we challenge enough and then raising the bar. 
+- How to I keep the fellow in the flow.  Not bored.  Not stressed. 
 
+![image](https://user-images.githubusercontent.com/2467354/142072011-55e832d9-b211-4611-9618-f1a3495941dc.png)
 
+- 4 hours a week
+- maybe a daily basis
+- or 2 long connects
+- being intentional. they can know they can come to you. 
+
+![image](https://user-images.githubusercontent.com/2467354/142072354-8b19ead0-49b1-4368-8bf9-d81da1e4de66.png)
+
+## Retro
+
+- What went well?
+- What could improve?
+
+![image](https://user-images.githubusercontent.com/2467354/142072800-de16a47b-13b5-4958-8e65-849e1383d988.png)
