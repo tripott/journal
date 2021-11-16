@@ -184,6 +184,32 @@ Both euro and japanese perspectives, similarities, and diffences between these 2
 
 ![image](https://user-images.githubusercontent.com/2467354/142067909-2be69236-323d-4802-aafe-92258b252299.png)
 
+2 minutes... stickies.. think about what are some destinations for fellows to arrive to. 
+
+![image](https://user-images.githubusercontent.com/2467354/142068549-39d838fb-2728-4c6c-a324-3e3f312dba20.png)
+
+## Principles of Modern Craftsmanship
+
+![image](https://user-images.githubusercontent.com/2467354/142068593-41bf9ac6-0740-4fd5-a477-3b63e8774eff.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142068683-f31707c2-f4b8-4d0b-b5e3-0276a264e62f.png)
+
+- Improvement: Pour yourself into your craft.  Continuous Improvement to the craft.  Constantly learning new things.  Helping others along the way.  THis is internal.  
+- Fulfillment: Discovering Joy in the work you do.  Being able to love what you do even in hard times. Where can you find fulfillment.This is intenral
+- Accomplishment:  Demonstrating skills in your work.  Demonstrate Quality in your work.  This is the fruit of my labor. 
+
+![image](https://user-images.githubusercontent.com/2467354/142069007-ee5193e3-6b3d-4928-a7e9-2cc337328812.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142069148-b1ae0d6e-50f8-4e72-97c6-3bad334462da.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142069516-5322cdeb-d435-40c6-9578-d664798fb5bd.png)
+
+
+
+
+
+
+
 
 
 
