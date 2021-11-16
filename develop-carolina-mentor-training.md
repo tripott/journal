@@ -143,25 +143,24 @@ Roles of mentors and coach.  A coaching mentor
 
 ![image](https://user-images.githubusercontent.com/2467354/142064474-46bdccde-ab31-4ed4-80e3-70c2167ba0de.png)
 
-
-- Coaching is relatiomnal.  Looking for treasures within them.  Bring out Aha momenets.  Moving from good to great. 
+- Coaching is relational.  Looking for treasures within them.  Bring out Aha momenets.  Moving from good to great. 
 - Fellow is steering through the EngineerKit.  
 
 ![image](https://user-images.githubusercontent.com/2467354/142064618-99cb35ce-b5cb-451e-bac9-a687cb3f4e38.png)
 
+- CLimbing a moutnain you have a guide.  The coaching experience is the most important.  Using great questions to move them forward.
+- Mentoring does most of the talking.
+- The coach asks powerful questions.  And give space for fellow to do the talking.
+- A coaching mentor.  Experience of a mentor informs the questions that the coaches asks.
+- Our goal is for the fellow to be problem solvers and autonomous.
+
+![image](https://user-images.githubusercontent.com/2467354/142065213-eeeca81f-f7b1-4535-b40a-2a91d19cdeea.png)
 
 
+- Mentor Syncs (Starting in Jan.) - give support to mentor.  Discover and learn the fundamental skills of coaching mentor to help facilitate you being a coaching mentor. 
 
+![image](https://user-images.githubusercontent.com/2467354/142066303-0ab46b95-2e32-42fe-a6bb-a30080e3c937.png)
 
-
-
-
-
-
-- 
-
-
-
-
+Chandler Roth 4:11 PM - https://miro.com/app/board/o9J_ljU4ZKk=/?invite_link_id=54509848316
 
 
