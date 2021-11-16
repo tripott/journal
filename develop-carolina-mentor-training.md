@@ -60,9 +60,105 @@ next 8 sessions
 - Every module has resources.  Learn about a concept quickly and a great jumping off point.
 - Mini projects throughout 6 months.  Ex:  Download and use wireshark and inspect packets.
 
+<Here are some of the slides on these 15 modules and topics.  Slides below are Not comprehensive. Sorry :(>
+
 ![image](https://user-images.githubusercontent.com/2467354/142061647-19a5120f-633a-4ae1-bec6-9f8565823000.png)
 
 ![image](https://user-images.githubusercontent.com/2467354/142061683-d5b5d751-daea-41f2-a5f9-7e6863a64bec.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142061872-3628eded-3df4-4bed-87fb-187262542094.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142061966-54b32d50-068b-4252-827c-01d9091b0287.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142061989-f79db983-1cc5-4b47-ba1e-02f17c3527f9.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142062005-a3372ebe-a437-47b5-aa41-17d8c9218f57.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142062046-3810589a-3db6-4b96-ba40-280840bedea4.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142062114-0f2a860b-f488-45e8-b789-06c822c06e56.png)
+
+## What will the fellowship cohort look like?
+
+![image](https://user-images.githubusercontent.com/2467354/142062250-9409f671-7a41-43ae-8cab-c1fc6aead642.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142062503-19ccdf76-a645-4471-8297-9fe78d67bfcd.png)
+
+## Discussion / Questions 
+
+- None
+
+## Skill Building
+
+
+![image](https://user-images.githubusercontent.com/2467354/142062756-d0fd9d7f-ea95-4607-ad93-3df15347898f.png)
+
+- Make sure youre intententional
+
+![image](https://user-images.githubusercontent.com/2467354/142062821-f7c04883-b174-4bb7-ab85-a898d9f3a759.png)
+
+- Make sure they know where they are going.  What they need to learn.  300 outcomes.  little destinations.  
+- Assess skills of a fellow.  How are they doing with a particular skill.  Make adjustments 
+- Learn and build new skills. 
+
+![image](https://user-images.githubusercontent.com/2467354/142062977-b71b6100-4dc6-403a-8027-bc80b0d391ce.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142063030-0feae79d-2114-4841-8eab-c1f3de5ad96e.png)
+
+
+![image](https://user-images.githubusercontent.com/2467354/142063091-4f2692f5-2131-4f3b-bb1c-84847a440765.png)
+
+### Baseline assessment
+
+![image](https://user-images.githubusercontent.com/2467354/142063118-ef56b241-913d-4996-a5e5-33f6b6e1d5c1.png)
+
+![image](https://user-images.githubusercontent.com/2467354/142063149-21eb23ad-2226-436a-90cf-f86a6e4296ae.png)
+
+- These asssessment will be available for a fellow on day 1.
+- We want to fill in gaps and turn everything green.
+- 0 to 3 scale
+
+![image](https://user-images.githubusercontent.com/2467354/142063283-888dbd61-ae4e-4242-890c-6d3b93a3a53d.png)
+
+- Refelct and discuss.  Having releatinship is important.  They will bring things up that they are stuggling with.
+- They should be able to demonstrate their progress. 
+
+## Discussion 
+
+## Intro to Coaching
+
+![image](https://user-images.githubusercontent.com/2467354/142063825-e8aa9b44-ba47-4aed-ac3f-f9e5b1b1f2ec.png)
+
+
+- Jeff Hegstrom taking.  Help people grow and be their best.
+
+Roles of mentors and coach.  A coaching mentor
+
+- AMie:  It gave me confidence to take on real-world tasks.  Things werent broken down into chunks.  Navigating interpersonal issues. Nice to have someone to have a complain session.  
+- Jeff:  How many of you.  A coaching relationship.  How has it impacted you...coaching. 
+- A mentor shares skills and experience. A coach is somehone who guides client on reaching their goals.  Parterning with the fellow ins.
+![image](https://user-images.githubusercontent.com/2467354/142064372-1d8a1359-10c9-4f4a-98b6-b595931cd3f8.png)
+
+- Coaching the gap. Where do they want to be vs. where they are.  We coach or work the gap to see the possiblities and plans to overcome barriers to reach their summit.
+
+![image](https://user-images.githubusercontent.com/2467354/142064474-46bdccde-ab31-4ed4-80e3-70c2167ba0de.png)
+
+
+- Coaching is relatiomnal.  Looking for treasures within them.  Bring out Aha momenets.  Moving from good to great. 
+- Fellow is steering through the EngineerKit.  
+
+![image](https://user-images.githubusercontent.com/2467354/142064618-99cb35ce-b5cb-451e-bac9-a687cb3f4e38.png)
+
+
+
+
+
+
+
+
+
+
+- 
 
 
 
